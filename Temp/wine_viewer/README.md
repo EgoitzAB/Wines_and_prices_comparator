@@ -1,0 +1,1 @@
+I made this bot when I was working in my last long term job. I need to add GUI and if my boss want, I will give for free. The bot get prices for our competency and insert in a SQL database. It is created as a SQL practice.
